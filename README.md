@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **devkaz@proton.me**
 
-![snake gif](https://github.com/devkaz18/devkaz18/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/devkaz18/devkaz18/blob/output/dist/github-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
