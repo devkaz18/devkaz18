@@ -2,7 +2,7 @@
 
 ### Full-stack developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkaz18" alt="devkaz18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=devkaz18&theme=matrix" alt="devkaz18" /></a> </p>
 
 - 🔭 I'm currently working on **casino project**
 
